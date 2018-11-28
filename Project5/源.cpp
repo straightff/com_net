@@ -4,7 +4,7 @@
 #include"print.h"
 #include"trans_int.h"
 #include"zengjia.h"
-int main()
+int main()//1
 {
 	int k, l;
 	for (k = 0; k <= 100; ++k)
