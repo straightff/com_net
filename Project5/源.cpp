@@ -11,6 +11,7 @@ int book[10000];//1为有搜过，0为没有。
 int m, n = 9, a, b;//n为节点数
 int main()//1
 {
+    cout<<"刘嵩"<<endl;
 	int k, l;
 	for (k = 0; k <= 100; ++k)
 		for (l = 0; l <= 100; ++l)
