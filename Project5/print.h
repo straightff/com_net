@@ -1,6 +1,6 @@
-#pragma once
+﻿#pragma once
 #include"data.h"
-void sc()//这是一个注释
+void sc()//这是一个注释hhj
 {
 	for (int i = 1; i <= n; i++)
 	{
