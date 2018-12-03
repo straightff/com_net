@@ -1,21 +1,11 @@
 ﻿  源.cpp
-d:\mycode\git_1\project5\print.h(3): error C2059: 语法错误:“<<”
-d:\mycode\git_1\project5\print.h(7): error C2177: 常量太大
-d:\mycode\git_1\project5\print.h(8): error C2143: 语法错误: 缺少“;”(在“{”的前面)
-d:\mycode\git_1\project5\print.h(8): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00C2”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00D2”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00BB”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00CC”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00F8”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00A3”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00BE”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00C0”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(12): warning C4566: 由通用字符名称“\u00EB”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(14): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(14): warning C4566: 由通用字符名称“\u00CF”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(14): warning C4566: 由通用字符名称“\u00BF”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\print.h(14): warning C4566: 由通用字符名称“\u00AA”表示的字符不能在当前代码页(936)中表示出来
-d:\mycode\git_1\project5\源.cpp(64): error C3861: “sc”: 找不到标识符
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl del(void)" (?del@@YAXXZ)，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl dijkstra(int)" (?dijkstra@@YAXH@Z)，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl wj(void)" (?wj@@YAXXZ)，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl sc(void)" (?sc@@YAXXZ)，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl zj(void)" (?zj@@YAXXZ)，该符号在函数 main 中被引用
+源.obj : error LNK2001: 无法解析的外部符号 "int (* xia)[100]" (?xia@@3PAY0GE@HA)
+源.obj : error LNK2001: 无法解析的外部符号 "int (* map)[100]" (?map@@3PAY0GE@HA)
+源.obj : error LNK2001: 无法解析的外部符号 "int * book" (?book@@3PAHA)
+源.obj : error LNK2001: 无法解析的外部符号 "int m" (?m@@3HA)
+D:\mycode\git_1\x64\Debug\Project5.exe : fatal error LNK1120: 9 个无法解析的外部命令
