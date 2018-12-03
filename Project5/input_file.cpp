@@ -3,7 +3,7 @@ void wj()// 从文件读入数据
 {
 	int n1 = 1;
 	string o;
-	ifstream myfile("数据.txt");
+	ifstream myfile("D:\\website\\git_1\\Project5\\数据.txt");
 	if (!myfile.is_open()) { cout << "文件无法打开" << endl; while (1); exit(1); }
 	while (!myfile.eof())
 	{
