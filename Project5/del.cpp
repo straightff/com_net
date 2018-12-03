@@ -1,5 +1,5 @@
 #include"del.h"
- void del()
+void del()
 {
 	int n3 = 0;
 	cout << "É¾³ý£º1.µã£»2.±ß £¨ÊäÈëÊý×Ö£©£º";

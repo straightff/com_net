@@ -1,11 +1,11 @@
 #include"print.h"
-void sc()//è¿™æ˜¯ä¸€ä¸ªæ³¨é‡Šhhjjjjjjj
+void sc()
 {
 	for (int i = 1; i <= n; i++)
 	{
 		if (dis[i] < 200)
-			cout << m << "->" << i << ":" << "Next:" << xia[m][i] << "   Distance:" << dis[i] << endl;
+			cout << m << "->" << i << ":" << "ÏÂÒ»Ìø£º" << xia[m][i] << "¾àÀë£º" << dis[i] << endl;
 		else
-			cout << m << "->" << i << "Break" << endl;
+			cout << m << "->" << i << ":¶Ï¿ª" << endl;
 	}
 }

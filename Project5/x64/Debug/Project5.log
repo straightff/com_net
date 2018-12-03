@@ -1,11 +1,9 @@
-﻿  源.cpp
-源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl del(void)" (?del@@YAXXZ)，该符号在函数 main 中被引用
-源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl dijkstra(int)" (?dijkstra@@YAXH@Z)，该符号在函数 main 中被引用
-源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl wj(void)" (?wj@@YAXXZ)，该符号在函数 main 中被引用
-源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl sc(void)" (?sc@@YAXXZ)，该符号在函数 main 中被引用
-源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl zj(void)" (?zj@@YAXXZ)，该符号在函数 main 中被引用
-源.obj : error LNK2001: 无法解析的外部符号 "int (* xia)[100]" (?xia@@3PAY0GE@HA)
-源.obj : error LNK2001: 无法解析的外部符号 "int (* map)[100]" (?map@@3PAY0GE@HA)
-源.obj : error LNK2001: 无法解析的外部符号 "int * book" (?book@@3PAHA)
-源.obj : error LNK2001: 无法解析的外部符号 "int m" (?m@@3HA)
-D:\mycode\git_1\x64\Debug\Project5.exe : fatal error LNK1120: 9 个无法解析的外部命令
+﻿  del.cpp
+  dijkstra.cpp
+  input_file.cpp
+  print.cpp
+  trans_int.cpp
+  zengjia.cpp
+  源.cpp
+  正在生成代码...
+  Project5.vcxproj -> D:\mycode\git_1\x64\Debug\Project5.exe

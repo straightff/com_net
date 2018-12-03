@@ -1,2 +1,3 @@
+#pragma once
 #include"data.h"
-extern void sc();
+void sc();

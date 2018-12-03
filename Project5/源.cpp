@@ -4,7 +4,6 @@
 #include"print.h"
 #include"trans_int.h"
 #include"zengjia.h"
-using namespace std;
 int xia[100][100];//ÏÂÒ»Ìø
 int map[100][100];//´æ´¢Í¼
 int dis[10000];//´æ´¢¾àÀë

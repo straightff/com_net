@@ -115,22 +115,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="del.cpp" />
+    <ClCompile Include="dijkstra.cpp" />
+    <ClCompile Include="input_file.cpp" />
+    <ClCompile Include="print.cpp" />
+    <ClCompile Include="trans_int.cpp" />
+    <ClCompile Include="zengjia.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="del.cpp" />
     <ClInclude Include="del.h" />
-    <ClInclude Include="dijkstra.cpp" />
     <ClInclude Include="dijkstra.h" />
-    <ClInclude Include="input_file.cpp" />
     <ClInclude Include="input_file.h" />
-    <ClInclude Include="print.cpp" />
     <ClInclude Include="print.h" />
-    <ClInclude Include="trans_int.cpp" />
     <ClInclude Include="trans_int.h" />
-    <ClInclude Include="zengjia.cpp" />
-    <ClInclude Include="data.h" />
     <ClInclude Include="zengjia.h" />
+    <ClInclude Include="data.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

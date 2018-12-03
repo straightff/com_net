@@ -18,8 +18,29 @@
     <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="del.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="input_file.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="print.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zengjia.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="trans_int.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="zengjia.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
     <ClInclude Include="data.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -35,29 +56,8 @@
     <ClInclude Include="print.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="zengjia.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="trans_int.h">
       <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="zengjia.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="trans_int.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="print.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="input_file.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="dijkstra.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="del.cpp">
-      <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
