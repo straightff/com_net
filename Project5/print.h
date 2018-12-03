@@ -1,6 +1,6 @@
 #pragma once
 #include"data.h"
-void sc()
+void sc()//1222
 {
 	for (int i = 1; i <= n; i++)
 	{
